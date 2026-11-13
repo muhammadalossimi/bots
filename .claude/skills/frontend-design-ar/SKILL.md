@@ -48,7 +48,7 @@ Typography carries the personality of the page. Use one family or two, clearly d
 
 For Latin-only work, choose faces specific to the brief rather than the defaults you'd reach for on any project, and set a clear type scale.
 
-Avoid these generated-page tells: accenting a single word in a headline with a different color/italic; all-caps labels; unnecessary eyebrow labels above every heading.
+Avoid these generated-page tells: all-caps labels; unnecessary eyebrow labels above every heading; and accenting one word or phrase of a headline in a different color, weight, underline or highlight. That last one is the most common tell and it's tempting in Arabic hero lines ("…والباقي علينا" in the accent color) — set the whole headline in one treatment and let the typeface, size and layout carry it.
 
 ## 3. Avoid the defaults
 
