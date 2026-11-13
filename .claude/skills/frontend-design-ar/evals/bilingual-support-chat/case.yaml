@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: bilingual-support-chat
+expected_outcome: |
+  A single-file chat UI where each message and the composer lay out correctly in its own direction (dir=auto), with RTL-aware alignment, empty/typing/error states, and LTR handling for code or URLs.
