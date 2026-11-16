@@ -1,17 +1,164 @@
 {
   "version": 2,
   "skills": {
+    "api-security": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/api-security/SKILL.md",
+      "computedHash": "e0361480e0156e4a4a9fa6547477b221b375f1b3bbd2f7c2a7d99ddcb0e9ebd0"
+    },
+    "apk-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/apk-reverse/SKILL.md",
+      "computedHash": "488da8ea1dfaf557cd7ce664d0575a9cbf64cb3b3638fcc9c1bf94eba4560922"
+    },
+    "attack-chain": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/attack-chain/SKILL.md",
+      "computedHash": "463693275ea8084549da1d3533990e2a361a149b946e784f178e1bdbad6bd4c4"
+    },
+    "binary-diff": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/binary-diff/SKILL.md",
+      "computedHash": "3ea2056dad1efc4ca5b09b9613309bd858aedfb1eb91ad1b3702f1b3b853e491"
+    },
+    "binary-ninja-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/binary-ninja-reverse/SKILL.md",
+      "computedHash": "d93adf703e8083e3b27700b0e8327d6e2b03c5c86a8edd92a752c4f1cd429977"
+    },
     "brainstorming": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "skillPath": "skills/brainstorming/SKILL.md",
       "computedHash": "a7424777b7f81e3eb9b4556d29fe233553736d8255780d3e1feea190fef61fef"
     },
+    "browser-automation": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/browser-automation/SKILL.md",
+      "computedHash": "d912b209d26922a2a403eca01fec9c84080a224c83fc07b3f61fbbc34051b006"
+    },
+    "browser-extension-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/browser-extension-reverse/SKILL.md",
+      "computedHash": "0316a4571cc74d9f86c736c0d1bf1fc022f21da9f3a35bea63e69b33302a085b"
+    },
+    "case-review": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/case-review/SKILL.md",
+      "computedHash": "00d9caa2de3bc2c9a74dbe5ffd10fef34d5293112b74c5e72dd2a8ad7809d7ce"
+    },
+    "cloud-k8s": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/cloud-k8s/SKILL.md",
+      "computedHash": "a26ddb171d4cc7fac81e9a87794d90fdc39b9ae91492abfd99bc5ef60ff8665c"
+    },
+    "code-audit": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/code-audit/SKILL.md",
+      "computedHash": "68970bfdf3866048ed829bd94e657fa91a628092b4837eaa1a1bdce63dc4f55b"
+    },
+    "ctf-sandbox": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/ctf-sandbox/SKILL.md",
+      "computedHash": "e5e3329520234c4af07bb518429cd7dbad2d6f317afabefbb2cedbea50e985cf"
+    },
+    "database-security": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/database-security/SKILL.md",
+      "computedHash": "66cd05f81e571cf08edb90c4652e0bf711333b721f3ecb99b2d8679e8fbd98d3"
+    },
+    "diagram-generator": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/diagram-generator/SKILL.md",
+      "computedHash": "d9ad4fad00ff1e62d76c370c1ad0094b61d31aa217c940d7472602acac7a6f47"
+    },
+    "digital-forensics": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/digital-forensics/SKILL.md",
+      "computedHash": "3456b9ea3d3ee85c9ad8e26b831a15ff003d55dfa643336eef37065d9e82ab2c"
+    },
+    "docs-generator": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/docs-generator/SKILL.md",
+      "computedHash": "6f541685535faa5283ded145cb78a2af6cc2d245c9ee0fc05f6d1368aee7967a"
+    },
+    "dotnet-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/dotnet-reverse/SKILL.md",
+      "computedHash": "80a820fe9c9f7686b480bc591195278bfc4dce1bfaa58dc5ab44d2184f2d17d2"
+    },
+    "edr-bypass-re": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/edr-bypass-re/SKILL.md",
+      "computedHash": "2c541cbde3d7c4655a3200eb17bd6267d8a575adcc6ca043c7f20274a35f24cd"
+    },
+    "email-security": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/email-security/SKILL.md",
+      "computedHash": "33ddf0e9f09113ec70edbfc1165d3f913ec6b1bf7fe77aad64bde6d9c0b8866f"
+    },
     "figma": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
       "skillPath": "skills/figma/SKILL.md",
       "computedHash": "0e6398ef34b30dec730d4225a20bdb20e7ed2309ece8abea95949549fe19f3ac"
+    },
+    "firmware-pentest": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/firmware-pentest/SKILL.md",
+      "computedHash": "529a75b0e0ebf74f3054b9e9bb062f1f0b7dd8f05946818209c9e9fe01d7e7c7"
+    },
+    "ghidra-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/ghidra-reverse/SKILL.md",
+      "computedHash": "22a96ad67062b7f7601779060a760ac0aec95f7ef39593f498a0c8dc01ba96f4"
+    },
+    "go-rust-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/go-rust-reverse/SKILL.md",
+      "computedHash": "5e399f4013fc1fdfa18bce942be3f4f97b547e31b8e02a19c1bff2802c9c4690"
     },
     "grill-me": {
       "source": "mattpocock/skills",
@@ -24,6 +171,13 @@
       "sourceType": "github",
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "485451958784497cd4c4dbea13cb5bbb579da58fac0d0e45f3bcb310fab68ac7"
+    },
+    "hardware-security": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/hardware-security/SKILL.md",
+      "computedHash": "14e98d7975bac8e67f0d71ac759cb80da6beba880c09339b53793410884551ee"
     },
     "hyperframes": {
       "source": "heygen-com/hyperframes",
@@ -43,11 +197,116 @@
       "skillPath": "skills/hyperframes-registry/SKILL.md",
       "computedHash": "6ac664d7d7f2ffdf299136cffb1a9bbebe21fd2b9afa8e6f44cf0c7a2d3df3b6"
     },
+    "ida-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/ida-reverse/SKILL.md",
+      "computedHash": "4d173a12571c37454c302a0b1371687111f8ca2aea9b3ff9584d459237a34c2e"
+    },
+    "identity-federation": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/identity-federation/SKILL.md",
+      "computedHash": "18d786789e4c85eb92aee1288c09b07bb5bc88aacf8e77e979eacc56e8a4817a"
+    },
+    "js-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/js-reverse/SKILL.md",
+      "computedHash": "de018647713e9307bdf0d3bba5afa719006a86566b87ad76573ac3ab89fcb44b"
+    },
+    "jsr-reverse": {
+      "source": "715494637/reverse-skill",
+      "commit": "a3e116e3c0c57075a096db696240fed20b73cfa6",
+      "sourceType": "github",
+      "skillPath": "jsr-reverse/SKILL.md",
+      "computedHash": "e71572d6c71a75ce8edf3a86d5b5a2d516a17c9214bc1ea9c245af177fd97857"
+    },
+    "llm-security": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/llm-security/SKILL.md",
+      "computedHash": "15aaf46ee615a701ecaaacc941273fe606845e4f836ed45694807751bcafa8d8"
+    },
+    "macos-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/macos-reverse/SKILL.md",
+      "computedHash": "51a08ed44fe39e934a196cf03e1fa72375d34083077afa2d9ccdfcfca6440c70"
+    },
+    "malware-analysis": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/malware-analysis/SKILL.md",
+      "computedHash": "0a306cbbb0da28acd38c517cf83fbe3b2fe3a2d90bff03d0ab39074208bb7b7a"
+    },
     "media-use": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
       "skillPath": "skills/media-use/SKILL.md",
       "computedHash": "e1f3a9bd0366f1ff0341bd585443f271c8e176a80f295f3cf6d901f9ca87f7fb"
+    },
+    "mobile-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/mobile-reverse/SKILL.md",
+      "computedHash": "11015323ffd24b802cb36cdaecaeedf406ffee4a1ff5339a9bf363fcfb09d82b"
+    },
+    "ot-ics": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/ot-ics/SKILL.md",
+      "computedHash": "6a4ca302e09963ebaae42b12075e2e9de1155835a87bb761c88bbefdf6682c7d"
+    },
+    "patch-diff-exploit": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/patch-diff-exploit/SKILL.md",
+      "computedHash": "3061cf7f493765d825ee121faaa221b61d29727e8170864a299566a2fa302843"
+    },
+    "pentest-tools": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/pentest-tools/SKILL.md",
+      "computedHash": "baa365bf6b90e2667b81a6b8aea0d9a129dd7b30f38cc8c55b43e236c9a87e70"
+    },
+    "protocol-reverse": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/protocol-reverse/SKILL.md",
+      "computedHash": "c893715b3233ddac890fd5d171d42429bdcc1f074e4a941f26cf613ea8c0500c"
+    },
+    "pwn-chain": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/pwn-chain/SKILL.md",
+      "computedHash": "99bc549d4cbba9bc560e9d356c092333f3be0c954f08f048213bce25cd5e5847"
+    },
+    "radare2": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/radare2/SKILL.md",
+      "computedHash": "0c2fe127a45695233e3137f307af0baa6e5107ae1521e4051f576a6da07ebb8c"
+    },
+    "radio-sdr": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/radio-sdr/SKILL.md",
+      "computedHash": "be7c8b60f43496e575a759d89e48d29326a5657afeb264900ac0e4268d42780b"
     },
     "remotion-to-hyperframes": {
       "source": "heygen-com/hyperframes",
@@ -55,11 +314,74 @@
       "skillPath": "skills/remotion-to-hyperframes/SKILL.md",
       "computedHash": "2e8210b6f9df473ab0c8028350c3a0f193430b37fdab917725a0d655674da512"
     },
+    "rev-dex-dumper": {
+      "source": "P4nda0s/reverse-skills",
+      "commit": "a2baa31c58a3567977188414da68c8c842057152",
+      "sourceType": "github",
+      "skillPath": "skills/rev-dex-dumper/SKILL.md",
+      "computedHash": "3663785576af06d2a8448a8d50eaccf1cbd98c424560de6c2f3f6d316b8720b6"
+    },
+    "rev-frida": {
+      "source": "P4nda0s/reverse-skills",
+      "commit": "a2baa31c58a3567977188414da68c8c842057152",
+      "sourceType": "github",
+      "skillPath": "skills/rev-frida/SKILL.md",
+      "computedHash": "97d7fc2e86cd572f51bf54424741c7f9c7f37909ed0c68db95a5981eac2bcfb6"
+    },
+    "rev-idapython": {
+      "source": "P4nda0s/reverse-skills",
+      "commit": "a2baa31c58a3567977188414da68c8c842057152",
+      "sourceType": "github",
+      "skillPath": "skills/rev-idapython/SKILL.md",
+      "computedHash": "3329f921f417b0c44c25129e050c61f3824d6a05c189305c220abcc961f7454a"
+    },
+    "rev-struct": {
+      "source": "P4nda0s/reverse-skills",
+      "commit": "a2baa31c58a3567977188414da68c8c842057152",
+      "sourceType": "github",
+      "skillPath": "skills/rev-struct/SKILL.md",
+      "computedHash": "2e31a2abd357294f2a7cb450e92b9f5976203256030e907a9489ad4e27cbf583"
+    },
+    "rev-symbol": {
+      "source": "P4nda0s/reverse-skills",
+      "commit": "a2baa31c58a3567977188414da68c8c842057152",
+      "sourceType": "github",
+      "skillPath": "skills/rev-symbol/SKILL.md",
+      "computedHash": "bccd1bc292af84791fbcd3b72baf5db8d0d5e70afe8deeb781c74a98576784aa"
+    },
+    "rev-u3d-dump": {
+      "source": "P4nda0s/reverse-skills",
+      "commit": "a2baa31c58a3567977188414da68c8c842057152",
+      "sourceType": "github",
+      "skillPath": "skills/rev-u3d-dump/SKILL.md",
+      "computedHash": "354fd22a476677a1877e1e3719d297df8ef3ff45d95fdce4fa6963f10b2fe5a2"
+    },
+    "rev-unicorn-debug": {
+      "source": "P4nda0s/reverse-skills",
+      "commit": "a2baa31c58a3567977188414da68c8c842057152",
+      "sourceType": "github",
+      "skillPath": "skills/rev-unicorn-debug/SKILL.md",
+      "computedHash": "0bdd44f0a2e8033fce9e50ba85819e6f69c1c5f7ccdc30746cc07e40662b5395"
+    },
     "reverse-any-video": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
       "skillPath": "skills/reverse-any-video/SKILL.md",
       "computedHash": "2cefe479a595e0bdaaeae6a23c297992ac133c1dfd49dd64b01b3e28eee591f0"
+    },
+    "reverse-engineering": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/reverse-engineering/SKILL.md",
+      "computedHash": "3f1b23e298dda4747a192bb81ca2d84b7333c769429294c0ad9ebbd7f781fe88"
+    },
+    "reverse-skill-router": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/SKILL.md",
+      "computedHash": "6dcd2237193f6f2a6ecb9ce288425a3cf5e4ac26ba799e21bd82a1bcbb47c765"
     },
     "slideshow": {
       "source": "heygen-com/hyperframes",
@@ -72,6 +394,48 @@
       "sourceType": "github",
       "skillPath": "skills/style-sampling/SKILL.md",
       "computedHash": "cb49372a8bfd06f5478802f56febf2d25371fd3401e83957139ecf12e80e490b"
+    },
+    "supply-chain-security": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/supply-chain-security/SKILL.md",
+      "computedHash": "7191a4249ea04f22dad6da4ee76f65c3b8247302d08c1faead5871912d7cebce"
+    },
+    "thick-client": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/thick-client/SKILL.md",
+      "computedHash": "0c9aa8d3d7e2bff014742fffcb184411a750d1d55e7b131238a12f682d384ef9"
+    },
+    "threat-hunting": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/threat-hunting/SKILL.md",
+      "computedHash": "e27c90af22b0d4f7cd267615bd886a3afd9fb7e89fdd71bea56c350618fd0ccf"
+    },
+    "threat-intelligence": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/threat-intelligence/SKILL.md",
+      "computedHash": "598250cb459bd00a81e45ff3dae8542b8137866f973e075da033941d13ff26ee"
+    },
+    "wifi-wireless": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/wifi-wireless/SKILL.md",
+      "computedHash": "8452d5f7599ef644f9fa262e1b93e5b06c9b135dcb9ef8292f29d7c332bc27a6"
+    },
+    "windows-ad": {
+      "source": "zhaoxuya520/reverse-skill",
+      "commit": "b972ad0e90f26d8f044828f004da22a4a585da12",
+      "sourceType": "github",
+      "skillPath": "skills/windows-ad/SKILL.md",
+      "computedHash": "5652ed92ab59648c5afb31368b85755344016399417303d1cb5a5d0e8b91ff22"
     }
   }
 }
