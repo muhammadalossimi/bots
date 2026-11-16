@@ -436,6 +436,13 @@
       "sourceType": "github",
       "skillPath": "skills/windows-ad/SKILL.md",
       "computedHash": "5652ed92ab59648c5afb31368b85755344016399417303d1cb5a5d0e8b91ff22"
+    },
+    "wrap-up": {
+      "source": "codewithmukesh/dotnet-claude-kit",
+      "commit": "6de62a5a64c1d4e2c8b14f9c0b8cf8bb4690814d",
+      "sourceType": "github",
+      "skillPath": "skills/wrap-up/SKILL.md",
+      "computedHash": "6985a168b700465a9139aa1dc778a2944ed44d11dc9a42724b1c97913d92a8af"
     }
   }
 }
